@@ -27,7 +27,13 @@
 
 ---
 
-## 🧰 Tech Stack
+### 👋 About Me
+
+I'm a full-stack developer building **Persian-language software** — educational platforms, e-commerce systems, AI tools, and mobile apps. I specialize in **Laravel + Filament** backends paired with **Next.js / Svelte** frontends, and I author open-source Filament packages.
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,7 +43,32 @@
 
 ---
 
-## 📦 Filament Packages
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Milad-Sarli/shatebi-next">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Sarli&repo=shatebi-next&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milad-Sarli/zamintaweb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Sarli&repo=zamintaweb&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milad-Sarli/rashagostar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Sarli&repo=rashagostar&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milad-Sarli/molod-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Sarli&repo=molod-app&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milad-Sarli/khatmed">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Sarli&repo=khatmed&theme=dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Milad-Sarli/goglanco">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Milad-Sarli&repo=goglanco&theme=dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 📦 Open-Source Filament Packages
 
 <p align="center">
   <a href="https://github.com/Milad-Sarli/filament-transition">
@@ -62,10 +93,11 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Milad-Sarli&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milad-Sarli&theme=dark&hide_border=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milad-Sarli&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170" />
 </p>
 
@@ -75,41 +107,37 @@
 
 ---
 
-## 🚀 Key Projects
+### 🗂️ More Projects
 
-### 📚 Educational Platforms
-
+#### 📚 Educational Platforms
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **Ahnaf Web** | Laravel 12 + Filament 3 | Islamic school management: attendance, grading, library, speech tracking, dynamic forms |
-| **Shatebi Platform** | Laravel 12 API + Next.js 15 | Educational ecosystem with Quran juz reading, OTP auth, Recharts dashboard |
-| **ZaminTaWeb** | Laravel 12 + Filament 4 + Svelte 5 | Academy + e-commerce dual-platform with 3D models |
+| [**shatebi-next**](https://github.com/Milad-Sarli/shatebi-next) | Next.js 15 + MUI 7 + Zustand | Shatebi educational platform frontend with Quran juz reading system |
+| [**zamintaweb**](https://github.com/Milad-Sarli/zamintaweb) | Laravel 12 + Filament 4 + Svelte 5 | Web dev academy + medical e-commerce dual-platform |
+| **Ahnaf Web** | Laravel 12 + Filament 3 | Islamic school management: attendance, grading, library, dynamic forms |
 
-### 🛒 E-Commerce
-
+#### 🛒 E-Commerce
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**goglanco**](https://github.com/Milad-Sarli/goglanco) | Next.js 15 + GSAP | Corporate website with admin panel, static export |
 | **Kralmode** | Laravel 12 + Next.js 15 | Full e-commerce with Saman payment, image zoom, infinite scroll |
 | **Bazr** | Laravel 11 + Filament 3 + Inertia | Seed/grain e-commerce with Shetabit payment, SEO, Scout search |
-| [**Goglanco**](https://github.com/Milad-Sarli/goglanco) | Next.js 15 + GSAP | Corporate website with admin panel, static export |
 
-### 🤖 AI & Automation
-
+#### 🤖 AI & Automation
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **RAG Plugin for LM Studio** | TypeScript + LM Studio SDK | RAG plugin for local LLMs with MCP server integration |
 | **Voice AI (Persian STT)** | Python + OpenAI Whisper | Offline Persian speech-to-text with macOS GUI |
 | **IrSherkat Bot** | Python + Playwright + OCR | Iranian companies registry automation with CAPTCHA solving |
 
-### 📱 Mobile
-
+#### 📱 Mobile & Islamic Apps
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **Khatmed** | React Native (Expo) + Laravel | Mobile app with contacts, secure storage, navigation |
-| **Molod Al Nabi** | Flutter + just_audio | Islamic audio app with Arabic fonts, animations |
+| [**molod-app**](https://github.com/Milad-Sarli/molod-app) | Flutter + just_audio | Islamic audio app with Arabic fonts, animated text |
+| [**khatmed**](https://github.com/Milad-Sarli/khatmed) | Laravel + Filament | Quran khatm (reading completion) management system |
+| **Khatmed Mobile** | React Native (Expo) | Mobile app with contacts, secure storage, navigation |
 
-### 🛠️ Tools
-
+#### 🛠️ Tools & Utilities
 | Project | Stack | Description |
 |---------|-------|-------------|
 | **TicketBuilder** | Next.js 16 + pdf-lib | PDF ticket generation with service workers |
@@ -119,7 +147,7 @@
 
 ---
 
-## 🌐 Persian Software Ecosystem
+### 🌐 Persian Software Ecosystem
 
 Everything I build is crafted for the **Persian-speaking market**:
 
@@ -141,6 +169,6 @@ Everything I build is crafted for the **Persian-speaking market**:
 
 <p align="center">
   <b>💼 Open to collaboration on Persian-language software & full-stack projects</b>
-  <br/>
+  <br/><br/>
   <a href="mailto:cursraimili@gmail.com">📧 cursraimili@gmail.com</a>
 </p>
